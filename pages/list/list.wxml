@@ -1,5 +1,5 @@
 <view class="page">
-  <view wx:if='{{listPage == 1'>
+  <view>
     <view>
     <view></view>
     </view>
